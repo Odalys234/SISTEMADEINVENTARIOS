@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\source\\repos\\K.O.A.E.20240911\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\K.O.A.E.20240911\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B141F5E7-1FC4-487A-861A-342CDBD9DE38}|K.O.A.E.20240911\\K.O.A.E.20240911.csproj|c:\\users\\mineducyt\\desktop\\practicasapi\\k.o.a.e.20240911\\k.o.a.e.20240911\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B141F5E7-1FC4-487A-861A-342CDBD9DE38}|K.O.A.E.20240911\\K.O.A.E.20240911.csproj|solutionrelative:k.o.a.e.20240911\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\K.O.A.E.20240911\\K.O.A.E.20240911\\Program.cs",
+              "RelativeDocumentMoniker": "K.O.A.E.20240911\\Program.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\K.O.A.E.20240911\\K.O.A.E.20240911\\Program.cs",
+              "RelativeToolTip": "K.O.A.E.20240911\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:54:41.588Z",
+              "EditorCaption": ""
             }
           ]
         }

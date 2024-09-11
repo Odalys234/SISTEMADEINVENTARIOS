@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5lUmLfPKR70=",
+  "dgSpecHash": "BjQNqCvsNbU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MINEDUCYT\\source\\repos\\K.O.A.E.20240911\\K.O.A.E.20240911\\K.O.A.E.20240911.csproj",
+  "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\K.O.A.E.20240911\\K.O.A.E.20240911\\K.O.A.E.20240911.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
