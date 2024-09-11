@@ -31,3 +31,10 @@ C:\Users\MINEDUCYT\Desktop\PRACTICASApi\K.O.A.E.20240911\K.O.A.E.20240911\obj\De
 C:\Users\MINEDUCYT\Desktop\PRACTICASApi\K.O.A.E.20240911\K.O.A.E.20240911\obj\Debug\net6.0\K.O.A.E.20240911.pdb
 C:\Users\MINEDUCYT\Desktop\PRACTICASApi\K.O.A.E.20240911\K.O.A.E.20240911\obj\Debug\net6.0\K.O.A.E.20240911.genruntimeconfig.cache
 C:\Users\MINEDUCYT\Desktop\PRACTICASApi\K.O.A.E.20240911\K.O.A.E.20240911\obj\Debug\net6.0\ref\K.O.A.E.20240911.dll
+C:\Users\MINEDUCYT\Desktop\PRACTICASApi\K.O.A.E.20240911\K.O.A.E.20240911\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MINEDUCYT\Desktop\PRACTICASApi\K.O.A.E.20240911\K.O.A.E.20240911\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MINEDUCYT\Desktop\PRACTICASApi\K.O.A.E.20240911\K.O.A.E.20240911\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MINEDUCYT\Desktop\PRACTICASApi\K.O.A.E.20240911\K.O.A.E.20240911\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MINEDUCYT\Desktop\PRACTICASApi\K.O.A.E.20240911\K.O.A.E.20240911\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MINEDUCYT\Desktop\PRACTICASApi\K.O.A.E.20240911\K.O.A.E.20240911\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MINEDUCYT\Desktop\PRACTICASApi\K.O.A.E.20240911\K.O.A.E.20240911\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\K.O.A.E.20240911\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B141F5E7-1FC4-487A-861A-342CDBD9DE38}|K.O.A.E.20240911\\K.O.A.E.20240911.csproj|c:\\users\\mineducyt\\desktop\\practicasapi\\k.o.a.e.20240911\\k.o.a.e.20240911\\endpoints\\accountendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B141F5E7-1FC4-487A-861A-342CDBD9DE38}|K.O.A.E.20240911\\K.O.A.E.20240911.csproj|solutionrelative:k.o.a.e.20240911\\endpoints\\accountendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B141F5E7-1FC4-487A-861A-342CDBD9DE38}|K.O.A.E.20240911\\K.O.A.E.20240911.csproj|c:\\users\\mineducyt\\desktop\\practicasapi\\k.o.a.e.20240911\\k.o.a.e.20240911\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B141F5E7-1FC4-487A-861A-342CDBD9DE38}|K.O.A.E.20240911\\K.O.A.E.20240911.csproj|solutionrelative:k.o.a.e.20240911\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B141F5E7-1FC4-487A-861A-342CDBD9DE38}|K.O.A.E.20240911\\K.O.A.E.20240911.csproj|c:\\users\\mineducyt\\desktop\\practicasapi\\k.o.a.e.20240911\\k.o.a.e.20240911\\endpoints\\bodegaendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B141F5E7-1FC4-487A-861A-342CDBD9DE38}|K.O.A.E.20240911\\K.O.A.E.20240911.csproj|solutionrelative:k.o.a.e.20240911\\endpoints\\bodegaendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B141F5E7-1FC4-487A-861A-342CDBD9DE38}|K.O.A.E.20240911\\K.O.A.E.20240911.csproj|c:\\users\\mineducyt\\desktop\\practicasapi\\k.o.a.e.20240911\\k.o.a.e.20240911\\endpoints\\categoriaproductoendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B141F5E7-1FC4-487A-861A-342CDBD9DE38}|K.O.A.E.20240911\\K.O.A.E.20240911.csproj|solutionrelative:k.o.a.e.20240911\\endpoints\\categoriaproductoendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B141F5E7-1FC4-487A-861A-342CDBD9DE38}|K.O.A.E.20240911\\K.O.A.E.20240911.csproj|c:\\users\\mineducyt\\desktop\\practicasapi\\k.o.a.e.20240911\\k.o.a.e.20240911\\auth\\jwtauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{B141F5E7-1FC4-487A-861A-342CDBD9DE38}|K.O.A.E.20240911\\K.O.A.E.20240911.csproj|solutionrelative:k.o.a.e.20240911\\auth\\ijwtauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B141F5E7-1FC4-487A-861A-342CDBD9DE38}|K.O.A.E.20240911\\K.O.A.E.20240911.csproj|c:\\users\\mineducyt\\desktop\\practicasapi\\k.o.a.e.20240911\\k.o.a.e.20240911\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B141F5E7-1FC4-487A-861A-342CDBD9DE38}|K.O.A.E.20240911\\K.O.A.E.20240911.csproj|solutionrelative:k.o.a.e.20240911\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B141F5E7-1FC4-487A-861A-342CDBD9DE38}|K.O.A.E.20240911\\K.O.A.E.20240911.csproj|c:\\users\\mineducyt\\desktop\\practicasapi\\k.o.a.e.20240911\\k.o.a.e.20240911\\endpoints\\accountendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B141F5E7-1FC4-487A-861A-342CDBD9DE38}|K.O.A.E.20240911\\K.O.A.E.20240911.csproj|solutionrelative:k.o.a.e.20240911\\endpoints\\accountendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +54,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "BodegaEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\K.O.A.E.20240911\\K.O.A.E.20240911\\Endpoints\\BodegaEndpoint.cs",
+              "RelativeDocumentMoniker": "K.O.A.E.20240911\\Endpoints\\BodegaEndpoint.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\K.O.A.E.20240911\\K.O.A.E.20240911\\Endpoints\\BodegaEndpoint.cs",
+              "RelativeToolTip": "K.O.A.E.20240911\\Endpoints\\BodegaEndpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:43:27.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriaProductoEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\K.O.A.E.20240911\\K.O.A.E.20240911\\Endpoints\\CategoriaProductoEndpoint.cs",
+              "RelativeDocumentMoniker": "K.O.A.E.20240911\\Endpoints\\CategoriaProductoEndpoint.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\K.O.A.E.20240911\\K.O.A.E.20240911\\Endpoints\\CategoriaProductoEndpoint.cs",
+              "RelativeToolTip": "K.O.A.E.20240911\\Endpoints\\CategoriaProductoEndpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:42:30.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AccountEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\K.O.A.E.20240911\\K.O.A.E.20240911\\Endpoints\\AccountEndpoint.cs",
               "RelativeDocumentMoniker": "K.O.A.E.20240911\\Endpoints\\AccountEndpoint.cs",
@@ -54,12 +88,11 @@
               "RelativeToolTip": "K.O.A.E.20240911\\Endpoints\\AccountEndpoint.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T15:32:34.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T15:32:34.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "JwtAuthenticationService.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\K.O.A.E.20240911\\K.O.A.E.20240911\\Auth\\JwtAuthenticationService.cs",
               "RelativeDocumentMoniker": "K.O.A.E.20240911\\Auth\\JwtAuthenticationService.cs",
@@ -67,32 +100,32 @@
               "RelativeToolTip": "K.O.A.E.20240911\\Auth\\JwtAuthenticationService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T15:24:41.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T15:24:41.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IJwtAuthenticationService.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\K.O.A.E.20240911\\K.O.A.E.20240911\\Auth\\IJwtAuthenticationService.cs",
               "RelativeDocumentMoniker": "K.O.A.E.20240911\\Auth\\IJwtAuthenticationService.cs",
               "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\K.O.A.E.20240911\\K.O.A.E.20240911\\Auth\\IJwtAuthenticationService.cs",
               "RelativeToolTip": "K.O.A.E.20240911\\Auth\\IJwtAuthenticationService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T15:10:47.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\K.O.A.E.20240911\\K.O.A.E.20240911\\Program.cs",
               "RelativeDocumentMoniker": "K.O.A.E.20240911\\Program.cs",
               "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\K.O.A.E.20240911\\K.O.A.E.20240911\\Program.cs",
               "RelativeToolTip": "K.O.A.E.20240911\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T14:54:41.588Z"
+              "WhenOpened": "2024-09-11T14:54:41.588Z",
+              "EditorCaption": ""
             }
           ]
         }
